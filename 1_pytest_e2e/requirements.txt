@@ -1,0 +1,7 @@
+pytest
+selenium
+black
+flake8
+isort
+Appium-Python-Client>=0.28
+SauceClient

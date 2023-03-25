@@ -1,0 +1,18 @@
+[flake8]
+max-line-length = 100
+ignore =
+    # F811: Redefinition of unused name
+    F811
+    # Both are for line break before/after ternary operator
+    W503
+    W504
+
+exclude =
+    .git
+    __pycache__
+    docs/source/conf.py
+    old
+    build
+    dist
+    migrations
+    notebooks

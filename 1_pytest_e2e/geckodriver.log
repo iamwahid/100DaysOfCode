@@ -1,0 +1,1077 @@
+1654658372265	geckodriver	INFO	Listening on 127.0.0.1:63909
+1654658372498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63910" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilencowpK"
+WebDriver BiDi listening on ws://localhost:63910
+2022-06-08 10:19:40.073 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x127eac400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:19:40.074 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1336b3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:19:40.075 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1336b1000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:19:40.077 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1336ae400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:19:40.078 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1336af000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:19:40.079 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1336b2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:19:40.080 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133db7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+DevTools listening on ws://localhost:63910/devtools/browser/4a852bd7-7f1b-4bd5-9be7-ad1d98e9838d
+1654658434373	geckodriver	INFO	Listening on 127.0.0.1:63964
+1654658434887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63965" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileNom9g3"
+1654658435726	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63965
+2022-06-08 10:20:36.702 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSButton: 0x12600c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:20:36.703 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSButton: 0x13361dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:20:36.703 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSButton: 0x13361fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:20:36.704 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSButton: 0x133620000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:20:36.704 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSButton: 0x133624c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:20:36.705 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133625c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:20:36.705 firefox-bin[19847:10117684] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13369c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileNom9g3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658439027	Marionette	INFO	Listening on port 63982
+DevTools listening on ws://localhost:63965/devtools/browser/7c643217-4bce-40c0-a46c-bcdf54409555
+Read port: 63982
+1654658439146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1654658455140	Marionette	INFO	Stopped listening on port 63982
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654658728238	geckodriver	INFO	Listening on 127.0.0.1:64186
+1654658728755	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64187" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileAo9ztc"
+1654658729355	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64187
+2022-06-08 10:25:30.173 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSButton: 0x1285dbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:25:30.174 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSButton: 0x135a73000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:25:30.174 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSButton: 0x135a77000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:25:30.175 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSButton: 0x135a7f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:25:30.175 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSButton: 0x135a79800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:25:30.176 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135a7a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:25:30.176 firefox-bin[20711:10123395] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a237000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileAo9ztc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658731591	Marionette	INFO	Listening on port 64198
+DevTools listening on ws://localhost:64187/devtools/browser/201de089-6e27-48da-802f-33c3bca5a196
+Read port: 64198
+1654658731643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654658736794	Marionette	INFO	Stopped listening on port 64198
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654658763581	geckodriver	INFO	Listening on 127.0.0.1:64234
+1654658764087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64235" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileE7wSMw"
+1654658764657	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64235
+2022-06-08 10:26:05.398 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSButton: 0x128434c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:05.399 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSButton: 0x133bb1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:05.399 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSButton: 0x133bb2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:05.400 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSButton: 0x133bb2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:05.400 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSButton: 0x133bb9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:05.401 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133bbac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:05.401 firefox-bin[20817:10124486] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133d37400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileE7wSMw/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658766600	Marionette	INFO	Listening on port 64252
+DevTools listening on ws://localhost:64235/devtools/browser/06f79c4a-8fcb-4eb4-a9f6-1db0681c12b4
+Read port: 64252
+1654658766678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654658768328	Marionette	INFO	Stopped listening on port 64252
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654658782907	geckodriver	INFO	Listening on 127.0.0.1:64275
+1654658782919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64276" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilemDHG9j"
+1654658783378	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64276
+2022-06-08 10:26:24.088 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSButton: 0x12cdb2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:24.088 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSButton: 0x12cdb0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:24.089 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSButton: 0x12cdb4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:24.090 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSButton: 0x12cdb3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:24.090 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSButton: 0x12cdaec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:24.091 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12cdb3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:24.091 firefox-bin[20864:10125180] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12cf30800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilemDHG9j/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658785371	Marionette	INFO	Listening on port 64287
+Read port: 64287
+DevTools listening on ws://localhost:64276/devtools/browser/d8ecb90e-14d2-4855-92cc-15c441bbef6a
+1654658785400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654658787556	Marionette	INFO	Stopped listening on port 64287
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+2022-06-08 10:26:42.799 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x11ff8ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:42.799 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x13fc90800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:42.800 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x13fd55400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:42.800 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1402b8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:42.801 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1402b4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:42.801 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1402b5800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:26:42.801 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14035b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1654658835077	geckodriver	INFO	Listening on 127.0.0.1:64337
+1654658835588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64338" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile4zjTD0"
+1654658836075	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64338
+2022-06-08 10:27:17.137 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSButton: 0x123cb4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:17.137 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSButton: 0x12fc28000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:17.138 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSButton: 0x12fc29400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:17.139 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSButton: 0x12fc2f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:17.140 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSButton: 0x12fc2d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:17.140 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12fc33000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:17.140 firefox-bin[21042:10126688] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12fcb2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile4zjTD0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658838216	Marionette	INFO	Listening on port 64353
+DevTools listening on ws://localhost:64338/devtools/browser/1ad243dd-73d4-4be8-85b0-97c58aea3f12
+Read port: 64353
+1654658838279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654658840242	Marionette	INFO	Stopped listening on port 64353
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654658852072	geckodriver	INFO	Listening on 127.0.0.1:64378
+1654658852081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64379" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilehwoHPe"
+1654658852551	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64379
+2022-06-08 10:27:33.253 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSButton: 0x13466cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:33.253 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSButton: 0x13466d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:33.254 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSButton: 0x13466d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:33.254 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSButton: 0x134674800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:33.255 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSButton: 0x134677c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:33.255 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134678000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:27:33.255 firefox-bin[21095:10127380] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134728400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilehwoHPe/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658854394	Marionette	INFO	Listening on port 64393
+DevTools listening on ws://localhost:64379/devtools/browser/d4a686f5-0fe8-475e-8328-548050c372e2
+Read port: 64393
+1654658854468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654658861229	Marionette	INFO	Stopped listening on port 64393
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654658885961	geckodriver	INFO	Listening on 127.0.0.1:64438
+1654658886484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64439" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileYvZCsg"
+1654658886985	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64439
+2022-06-08 10:28:07.788 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSButton: 0x135070c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:28:07.788 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSButton: 0x135079c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:28:07.789 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSButton: 0x13507a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:28:07.789 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSButton: 0x13507f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:28:07.790 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSButton: 0x13507c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:28:07.790 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135079000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:28:07.791 firefox-bin[21205:10128500] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12799c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileYvZCsg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654658888971	Marionette	INFO	Listening on port 64457
+DevTools listening on ws://localhost:64439/devtools/browser/0eadfc65-d9d1-44b3-ac6e-651ff71d5881
+Read port: 64457
+1654658889078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654658911281	Marionette	INFO	Stopped listening on port 64457
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654659540073	geckodriver	INFO	Listening on 127.0.0.1:64715
+1654659540589	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64716" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile6aWPvS"
+1654659541178	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64716
+2022-06-08 10:39:01.962 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSButton: 0x13457dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:39:01.963 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSButton: 0x134583800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:39:01.963 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSButton: 0x134581800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:39:01.964 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSButton: 0x134582c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:39:01.964 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSButton: 0x134585000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:39:01.965 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134588c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:39:01.965 firefox-bin[22942:10139885] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134628c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile6aWPvS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654659543096	Marionette	INFO	Listening on port 64725
+DevTools listening on ws://localhost:64716/devtools/browser/47bfd721-3bec-43c1-aae8-a1c1162352e2
+Read port: 64725
+1654659543169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654659560284	Marionette	INFO	Stopped listening on port 64725
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654659712384	geckodriver	INFO	Listening on 127.0.0.1:64846
+1654659712910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64847" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileB7U2aE"
+1654659713437	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64847
+2022-06-08 10:41:54.163 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSButton: 0x12b55c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:41:54.163 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSButton: 0x136fb1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:41:54.163 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSButton: 0x136fae400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:41:54.164 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSButton: 0x136fb1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:41:54.164 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSButton: 0x136fb3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:41:54.165 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x136fb5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:41:54.165 firefox-bin[23370:10143174] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137136400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileB7U2aE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654659715326	Marionette	INFO	Listening on port 64862
+DevTools listening on ws://localhost:64847/devtools/browser/b489beda-6b20-4226-af68-d8af68fb9ba8
+Read port: 64862
+1654659715383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654659735568	Marionette	INFO	Stopped listening on port 64862
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654659752090	geckodriver	INFO	Listening on 127.0.0.1:64919
+1654659752100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64920" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile8UhrCH"
+1654659752572	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64920
+2022-06-08 10:42:33.255 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSButton: 0x12000dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:42:33.256 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSButton: 0x12d5a9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:42:33.256 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSButton: 0x12d5a3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:42:33.256 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSButton: 0x12d5af000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:42:33.257 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSButton: 0x12d5acc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:42:33.257 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12d5ad800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:42:33.258 firefox-bin[23551:10144729] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12d62f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile8UhrCH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654659754375	Marionette	INFO	Listening on port 64932
+DevTools listening on ws://localhost:64920/devtools/browser/d902cb1a-3585-42ec-974f-d02941502df8
+Read port: 64932
+1654659754469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654659762374	Marionette	INFO	Stopped listening on port 64932
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+2022-06-08 10:49:10.253 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x12738b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:49:10.255 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x13299d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:49:10.256 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1329aac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:49:10.257 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x132b46800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:49:10.259 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x1336a8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:49:10.260 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1336aa400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 10:49:10.261 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133ebec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1654661165533	geckodriver	INFO	Listening on 127.0.0.1:49269
+1654661166050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49270" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileBCyJMy"
+1654661166707	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49270
+2022-06-08 11:06:07.528 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSButton: 0x1205ca800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:06:07.529 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSButton: 0x12c7cd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:06:07.529 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSButton: 0x12c7ce800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:06:07.530 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSButton: 0x12c7cdc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:06:07.530 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSButton: 0x12c7d0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:06:07.531 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c7d5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:06:07.531 firefox-bin[27445:10171796] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c95b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileBCyJMy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654661168439	Marionette	INFO	Listening on port 49285
+DevTools listening on ws://localhost:49270/devtools/browser/bc5aa2f0-5c55-43ae-bc8d-124715f3f230
+Read port: 49285
+1654661168533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654661178867	Marionette	INFO	Stopped listening on port 49285
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654661312417	geckodriver	INFO	Listening on 127.0.0.1:49376
+1654661312932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49377" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilemRQ0IO"
+1654661313447	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49377
+2022-06-08 11:08:34.163 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSButton: 0x123e6c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:08:34.163 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSButton: 0x12fe09000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:08:34.164 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSButton: 0x12fe09400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:08:34.164 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSButton: 0x12fe0ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:08:34.165 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSButton: 0x12fe0e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:08:34.165 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12fe0d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:08:34.166 firefox-bin[27906:10175013] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13002a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilemRQ0IO/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654661315245	Marionette	INFO	Listening on port 49392
+DevTools listening on ws://localhost:49377/devtools/browser/3ad2aa31-46d4-443f-9008-266dedd9ab7f
+Read port: 49392
+1654661315306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654661325443	Marionette	INFO	Stopped listening on port 49392
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654661390633	geckodriver	INFO	Listening on 127.0.0.1:49476
+1654661390643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49477" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileBvmgjb"
+1654661391086	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49477
+2022-06-08 11:09:51.802 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSButton: 0x12a572c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:09:51.803 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSButton: 0x12a571000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:09:51.804 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSButton: 0x12a573800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:09:51.805 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSButton: 0x12a56f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:09:51.806 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSButton: 0x12a573c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:09:51.806 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a574000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:09:51.807 firefox-bin[28157:10177087] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11c87b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileBvmgjb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654661392959	Marionette	INFO	Listening on port 49482
+DevTools listening on ws://localhost:49477/devtools/browser/fb801a1a-bb0e-4011-9bfa-3ed330a296f9
+Read port: 49482
+1654661393025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654661401809	Marionette	INFO	Stopped listening on port 49482
+2022-06-08 11:16:09.917 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x11a385400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:09.920 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x11a39ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:09.921 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x12768d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:09.922 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x13256c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:09.922 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSButton: 0x132916c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:09.923 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a408800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:09.923 firefox-bin[19674:10116066] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a70ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1654661807152	geckodriver	INFO	Listening on 127.0.0.1:49764
+1654661807639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49765" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile9NaHOd"
+1654661808239	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49765
+2022-06-08 11:16:48.980 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSButton: 0x12c05e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:48.981 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSButton: 0x12c059400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:48.981 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSButton: 0x12c060000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:48.982 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSButton: 0x12c060400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:48.982 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSButton: 0x12c05d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:48.983 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c059800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:16:48.983 firefox-bin[29406:10186176] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c0d9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile9NaHOd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654661810524	Marionette	INFO	Listening on port 49776
+DevTools listening on ws://localhost:49765/devtools/browser/f5e358f9-c9e9-42db-8756-569421f81b42
+Read port: 49776
+1654661810615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654661820715	Marionette	INFO	Stopped listening on port 49776
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654661841530	geckodriver	INFO	Listening on 127.0.0.1:49821
+1654661841545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49822" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile4mbYbg"
+1654661841986	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49822
+2022-06-08 11:17:22.674 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSButton: 0x134d12000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:17:22.675 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSButton: 0x134d0f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:17:22.676 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSButton: 0x134d10000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:17:22.676 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSButton: 0x134d12c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:17:22.677 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSButton: 0x134d10400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:17:22.678 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134d10800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 11:17:22.678 firefox-bin[29504:10187060] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134daf800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile4mbYbg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654661844272	Marionette	INFO	Listening on port 49832
+Read port: 49832
+1654661844353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:49822/devtools/browser/298d83d7-fd66-4558-9611-8630f8b72bf7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654661852858	Marionette	INFO	Stopped listening on port 49832
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654664890355	geckodriver	INFO	Listening on 127.0.0.1:51062
+1654664890889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51063" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileJtIfw9"
+1654664891906	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51063
+2022-06-08 12:08:12.967 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSButton: 0x125144c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:08:12.968 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSButton: 0x130e77c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:08:12.968 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSButton: 0x130e77800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:08:12.969 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSButton: 0x130e74400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:08:12.969 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSButton: 0x130e7d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:08:12.970 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130e7f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:08:12.970 firefox-bin[36969:10232880] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130ef3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileJtIfw9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654664895120	Marionette	INFO	Listening on port 51072
+DevTools listening on ws://localhost:51063/devtools/browser/8a704af4-ec23-4aca-b818-db0cedaf1489
+Read port: 51072
+1654664895185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654664902587	Marionette	INFO	Stopped listening on port 51072
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654664955637	geckodriver	INFO	Listening on 127.0.0.1:51134
+1654664956158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51135" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileaLcPo7"
+1654664956888	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51135
+2022-06-08 12:09:17.788 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSButton: 0x12db35800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:09:17.789 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSButton: 0x12db32c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:09:17.790 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSButton: 0x12db38c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:09:17.790 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSButton: 0x12db37000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:09:17.791 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSButton: 0x12db36000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:09:17.791 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12db37400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:09:17.792 firefox-bin[37237:10234792] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12dbb0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileaLcPo7/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654664959469	Marionette	INFO	Listening on port 51153
+DevTools listening on ws://localhost:51135/devtools/browser/3dd6ee89-d15c-420d-90ec-993ca1f031b2
+Read port: 51153
+1654664959561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654664965667	Marionette	INFO	Stopped listening on port 51153
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654665099604	geckodriver	INFO	Listening on 127.0.0.1:51221
+1654665099614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51222" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile8eTCpG"
+1654665100155	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51222
+2022-06-08 12:11:40.968 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSButton: 0x134925c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:11:40.969 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSButton: 0x134928400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:11:40.969 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSButton: 0x13492ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:11:40.970 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSButton: 0x134927800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:11:40.970 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSButton: 0x134928c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:11:40.971 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134929000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:11:40.971 firefox-bin[37663:10237522] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1349c7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofile8eTCpG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654665102548	Marionette	INFO	Listening on port 51231
+DevTools listening on ws://localhost:51222/devtools/browser/24a90e02-f66f-4baa-aad3-d8d7a7487cd7
+Read port: 51231
+1654665102599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654665118624	Marionette	INFO	Stopped listening on port 51231
+1654665192056	geckodriver	INFO	Listening on 127.0.0.1:51309
+1654665192068	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51310" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileHl386q"
+1654665192696	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51310
+2022-06-08 12:13:13.475 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSButton: 0x11f2b5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:13:13.475 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSButton: 0x12b12a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:13:13.476 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSButton: 0x12b130800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:13:13.476 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSButton: 0x12b131000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:13:13.477 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSButton: 0x12b129400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:13:13.477 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b12a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:13:13.478 firefox-bin[37925:10239401] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b1cb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileHl386q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654665195046	Marionette	INFO	Listening on port 51321
+Read port: 51321
+1654665195063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51310/devtools/browser/8a307994-266f-4a78-92dc-1efb1c5c3d43
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654665208089	Marionette	INFO	Stopped listening on port 51321
+1654665355292	geckodriver	INFO	Listening on 127.0.0.1:51399
+1654665355812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51400" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileaw01zs"
+1654665356339	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51400
+2022-06-08 12:15:57.120 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSButton: 0x134a24000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:15:57.121 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSButton: 0x134a22800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:15:57.121 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSButton: 0x134a25400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:15:57.122 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSButton: 0x134a22400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:15:57.123 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSButton: 0x134a25000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:15:57.123 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134a26400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:15:57.123 firefox-bin[38348:10241973] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134ac0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileaw01zs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654665358478	Marionette	INFO	Listening on port 51412
+DevTools listening on ws://localhost:51400/devtools/browser/44d81825-18be-4127-9ba3-cc7e5e50e5d4
+Read port: 51412
+1654665358592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654665372742	Marionette	INFO	Stopped listening on port 51412
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654665416038	geckodriver	INFO	Listening on 127.0.0.1:51472
+1654665416048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51473" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofiledxzmdz"
+1654665416537	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51473
+2022-06-08 12:16:57.300 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSButton: 0x11f610c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:16:57.301 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSButton: 0x12ae2e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:16:57.301 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSButton: 0x12ae2ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:16:57.302 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSButton: 0x12ae2f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:16:57.302 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSButton: 0x12ae37400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:16:57.303 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ae36c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-08 12:16:57.303 firefox-bin[38548:10243479] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12aed2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofiledxzmdz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654665418414	Marionette	INFO	Listening on port 51489
+DevTools listening on ws://localhost:51473/devtools/browser/a25450fb-c07e-4e3d-9f93-26bd64cdd258
+Read port: 51489
+1654665418524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simping.id"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654665429775	Marionette	INFO	Stopped listening on port 51489
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1674185108327	geckodriver	INFO	Listening on 127.0.0.1:56263
+1674185108688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56264" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileCp0Bwg"
+1674185109868	Marionette	INFO	Marionette enabled
+1674185109936	Marionette	INFO	Listening on port 56281
+Read port: 56281
+WebDriver BiDi listening on ws://127.0.0.1:56264
+1674185110593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileCp0Bwg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56264/devtools/browser/ab7261be-9e4a-4bcf-ae29-27cc6da81f2c
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 168: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 168: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 168: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 168: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 168: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 168: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 272: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 272: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 272: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 272: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 272: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 272: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 222: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 222: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 222: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 222: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 222: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 222: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1674185250690	Marionette	INFO	Stopped listening on port 56281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674185636737	geckodriver	INFO	Listening on 127.0.0.1:58787
+1674185637250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58788" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilekseaLo"
+1674185637869	Marionette	INFO	Marionette enabled
+1674185637905	Marionette	INFO	Listening on port 58804
+Read port: 58804
+WebDriver BiDi listening on ws://127.0.0.1:58788
+1674185638297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofilekseaLo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58788/devtools/browser/4f2bb6ac-7e58-4592-bf17-acaf54d2d1c6
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+1674185699693	geckodriver	INFO	Listening on 127.0.0.1:59149
+1674185700211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59150" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileCzQfZL"
+1674185700922	Marionette	INFO	Marionette enabled
+1674185700959	Marionette	INFO	Listening on port 59164
+Read port: 59164
+WebDriver BiDi listening on ws://127.0.0.1:59150
+1674185701407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileCzQfZL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59150/devtools/browser/0289688f-d633-43fa-bbdd-2c9608b6c7a3
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+1674185802938	geckodriver	INFO	Listening on 127.0.0.1:59694
+1674185802947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59695" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileEkQvCQ"
+1674185803559	Marionette	INFO	Marionette enabled
+1674185803595	Marionette	INFO	Listening on port 59704
+Read port: 59704
+WebDriver BiDi listening on ws://127.0.0.1:59695
+1674185804048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileEkQvCQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59695/devtools/browser/3591b50b-8f6c-4761-be66-b2bfd21b66ca
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+1674185860315	Marionette	INFO	Stopped listening on port 58804
+1674185862660	Marionette	INFO	Stopped listening on port 59164
+1674185866370	Marionette	INFO	Stopped listening on port 59704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674185875509	geckodriver	INFO	Listening on 127.0.0.1:60095
+1674185875518	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60096" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileNKtD8s"
+1674185876098	Marionette	INFO	Marionette enabled
+1674185876131	Marionette	INFO	Listening on port 60105
+Read port: 60105
+WebDriver BiDi listening on ws://127.0.0.1:60096
+1674185876586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileNKtD8s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60096/devtools/browser/8ef50720-e7f3-4884-b164-349b50bc73d0
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+1674185890655	Marionette	INFO	Stopped listening on port 60105
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674185969134	geckodriver	INFO	Listening on 127.0.0.1:60588
+1674185969145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60589" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofiles54m35"
+1674185969663	Marionette	INFO	Marionette enabled
+1674185969695	Marionette	INFO	Listening on port 60599
+Read port: 60599
+WebDriver BiDi listening on ws://127.0.0.1:60589
+1674185970090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofiles54m35/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60589/devtools/browser/89f5a9ba-83e5-40ad-bd48-7ab8704c578c
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+1674185984009	Marionette	INFO	Stopped listening on port 60599
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674186033521	geckodriver	INFO	Listening on 127.0.0.1:60942
+1674186033532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60943" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileYq3ws5"
+1674186034034	Marionette	INFO	Marionette enabled
+1674186034071	Marionette	INFO	Listening on port 60953
+Read port: 60953
+WebDriver BiDi listening on ws://127.0.0.1:60943
+1674186034459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nz/9xvn33mn167g_0qs3bkp68m00000gn/T/rust_mozprofileYq3ws5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60943/devtools/browser/e6cff7ad-0d0c-440a-a638-c3d9f7e27fb8
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application/home_page-c2c80446353aaea8db3a69bb75a65d0a31fd4b2cedf24d205b08971f581ba1c3.js, line 69: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application-2431ae74cb8e81430a1df81bd13e8e57741ab8c26bd5048f764fe76e2a884ef5.js, line 82: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://env9.sejasa.com."
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://env9.sejasa.com/assets/v1/application_dashboard-897929fb28a910319ae9501c092a69559637d3b70cd84aeeddc5102817500f0d.js, line 81: WebGL context was lost.
+1674186070938	Marionette	INFO	Stopped listening on port 60953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
